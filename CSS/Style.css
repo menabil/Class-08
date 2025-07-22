@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: tomato;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.ch1 {
+    position: relative;
+
+}
+
+.ch1 img {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.ch1 p {
+    position: absolute;
+    top: 335px;
+    left: 300px;
+}
+
+.ch2 {
+    position: relative;
+
+}
+
+.ch2 img {
+    position: absolute;
+    top: 100px;
+    left: 650px;
+}
+
+.ch2 p {
+    position: absolute;
+    top: 335px;
+    left: 800px;
+}
+
+.ch3 {
+    position: relative;
+
+}
+
+.ch3 img {
+    position: absolute;
+    top: 100px;
+    left: 1050px;
+}
+
+.ch3 p {
+    position: absolute;
+    top: 335px;
+    left: 1300px;
+}
